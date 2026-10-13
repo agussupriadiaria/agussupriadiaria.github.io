@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9fb3ad" stroke-width="1" opacity=".55"/></pattern></defs>
+<rect width="1280" height="720" fill="#cfdad6"/><rect width="1280" height="720" fill="url(#g)"/>
+<rect x="380.0" y="501.6" width="520" height="120" rx="6" fill="#ffffff" opacity=".9"/>
+<text x="640.0" y="555.6" text-anchor="middle" font-family="monospace" font-size="30" font-weight="700" fill="#27403a">THUMBNAIL VIDEO DEMO</text>
+<text x="640.0" y="595.6" text-anchor="middle" font-family="monospace" font-size="20" fill="#4f615c">ganti dengan file asli</text>
+</svg>
